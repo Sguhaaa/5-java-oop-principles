@@ -3,7 +3,6 @@ package com.example.task03;
 /**
  * Интерфейс для интервалов времени в определенных единицах
  */
-
 public interface TimeUnit {
 
     /**

@@ -1,6 +1,5 @@
 package com.example.task03;
 
-
 public class Minutes implements TimeUnit {
 
     private final long amount;
