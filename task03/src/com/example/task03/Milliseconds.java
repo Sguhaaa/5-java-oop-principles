@@ -3,6 +3,7 @@ package com.example.task03;
 /**
  * Интервал в миллисекундах
  */
+
 public class Milliseconds implements TimeUnit {
 
     private final long amount;
